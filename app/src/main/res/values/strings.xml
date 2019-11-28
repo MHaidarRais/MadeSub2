@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MADESub3</string>
+    <string name="tab_text_1">Movie</string>
+    <string name="tab_text_2">TV Series</string>
+    <string name="change_language_setting">Change Language Setting</string>
+    <string name="empty_description">We don\'t have an overview translated in English. Help us expand our database by adding one.</string>
+
+</resources>

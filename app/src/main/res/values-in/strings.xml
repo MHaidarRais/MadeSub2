@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MADESub3</string>
+    <string name="tab_text_1">Film</string>
+    <string name="tab_text_2">Serial TV</string>
+    <string name="change_language_setting">Pengaturan Bahasa</string>
+    <string name="empty_description">Kami tidak memiliki tinjauan yang diterjemahkan dalam bahasa Inggris. Bantu kami memperluas basis data kami dengan menambahkan satu.</string>
+
+</resources>
